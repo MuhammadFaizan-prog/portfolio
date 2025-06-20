@@ -23,7 +23,7 @@ const Footer = () => {
         </div>
       </div>
 
-      <p className="text-white-500">© 2024 Faizan. All rights reserved.</p>
+      <p className="text-white-500">© 2024 Faizan. All rights reserved.+92 3174978058</p>
     </footer>
   );
 };
